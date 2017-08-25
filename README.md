@@ -1,7 +1,10 @@
 # Digital Storytelling and Social Media
 
 Northeastern University, School of Journalism
+
 Fall 2017
+
+Course website: [aleszu.github.io/digisoc/](aleszu.github.io/digisoc/)
 
 ## Overview
 
