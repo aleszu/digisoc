@@ -9,3 +9,4 @@ This course will expose you to a suite of tools and methods employed in contempo
 
 We will touch on many areas – community engagement, digital publishing analytics, new media business models – but devote the most time to exploring the tools and methods of **data visualization**, **social media publishing** and **digital storytelling **using the **collaborative design process**. We will put those concepts and tools into practice first through individual assignments and later through large projects completed in groups. 
 
+This site was built with [Rmarkdown](http://rmarkdown.rstudio.com/rmarkdown_websites.html).
