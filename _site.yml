@@ -1,5 +1,6 @@
 
 name: "Digital-Storytelling-and-Social-Media"
+output_dir: "."
 navbar:
   title: "Digital Storytelling and Social Media"
   left:
