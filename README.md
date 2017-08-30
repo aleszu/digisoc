@@ -4,7 +4,7 @@ Northeastern University, School of Journalism
 
 Fall 2017
 
-Course website: [aleszu.github.io/digisoc/](aleszu.github.io/digisoc/)
+Course website: [aleszu.github.io/digisoc/](http://aleszu.github.io/digisoc/)
 
 ## Overview
 
